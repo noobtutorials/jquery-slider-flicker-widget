@@ -1,4 +1,4 @@
-<script type="text/javascript" src="/voorbeelden/jquery.js"></script>
+<script type="text/javascript" src="http://www.noobtutorials.nl/voorbeelden/jquery.js"></script>
 <script type="text/javascript">
 $( function () {
 	$data = {}; // Object aanmaken

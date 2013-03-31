@@ -1,4 +1,3 @@
-jquery-slider-flicker-widget
-============================
+Kijk voor de bijbehorende tutorial op:
 
-jQuery slider Flickr widget
+http://www.noobtutorials.nl/jquery/flickr-widget-met-jquery-maken
